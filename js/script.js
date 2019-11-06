@@ -7,7 +7,7 @@
 $('#shoot').click(function(){
     let inputVal = $('#input').val()
     console.log(inputVal)
-    $('#userchoice').text(inputVal)
+    $('#userChoice').text(inputVal)
 
 })
 
